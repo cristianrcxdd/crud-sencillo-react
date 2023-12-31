@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/crud-sencillo-react/static/css/main.b1d7ec7b.css",
+    "main.js": "/crud-sencillo-react/static/js/main.15c90311.js",
+    "static/js/787.3ed72492.chunk.js": "/crud-sencillo-react/static/js/787.3ed72492.chunk.js",
+    "index.html": "/crud-sencillo-react/index.html",
+    "main.b1d7ec7b.css.map": "/crud-sencillo-react/static/css/main.b1d7ec7b.css.map",
+    "main.15c90311.js.map": "/crud-sencillo-react/static/js/main.15c90311.js.map",
+    "787.3ed72492.chunk.js.map": "/crud-sencillo-react/static/js/787.3ed72492.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b1d7ec7b.css",
+    "static/js/main.15c90311.js"
+  ]
+}
